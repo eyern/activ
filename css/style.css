@@ -605,10 +605,10 @@ ol {
 .cs-item span {
 	height: 90px;
 	width: 90px;
-	background: rgba(255, 255, 255, 0.1);
+	background: #56aeff;
 	border-radius: 50%;
 	display: inline-block;
-	color: #56aeff;
+	color: #ffffff;
 	line-height: 90px;
 	text-align: center;
 	-webkit-transition: all 0.3s;
